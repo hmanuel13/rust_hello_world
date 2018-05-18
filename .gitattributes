@@ -1,5 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-debug/*
-target/*
-target/debug/*
+target/debug/* linguist-vendored
